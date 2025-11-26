@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MiAppPreferencias</string>
+
+    <string-array name="frecuencias">
+        <item>Diario</item>
+        <item>Semanal</item>
+        <item>Mensual</item>
+    </string-array>
+
+    <string-array name="idiomas">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+    </string-array>
+</resources>
